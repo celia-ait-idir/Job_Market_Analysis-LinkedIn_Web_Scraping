@@ -7,7 +7,6 @@ This project scrapes LinkedIn job postings related to **Data Science** and perfo
 - Analyze salary ranges, skill requirements, and experience trends.
 - Visualize patterns and insights to support decision-making for job seekers.
 
----
 
 ## Features
 
@@ -33,7 +32,7 @@ This project scrapes LinkedIn job postings related to **Data Science** and perfo
 ### Visualization
 - Graphs and charts using `Matplotlib` and `Seaborn`.
 
----
+
 
 ## Tech Used
 - Libraries:
