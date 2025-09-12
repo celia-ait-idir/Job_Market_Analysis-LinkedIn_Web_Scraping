@@ -3,15 +3,13 @@ This project scrapes LinkedIn job postings related to **Data Science** and perfo
 
 **Key Objectives:**
 - Collect Data Science job listings from LinkedIn.
-
 - Clean and preprocess the data for analysis.
-
-- Analyze salary ranges, skill requirements, and needed experice trends.
-
+- Analyze salary ranges, skill requirements, and experience trends.
 - Visualize patterns and insights to support decision-making for job seekers.
 
+---
 
-## Features :
+## Features
 
 ### Web Scraping
 - Dynamically extracts:
@@ -20,27 +18,26 @@ This project scrapes LinkedIn job postings related to **Data Science** and perfo
   - Location
   - Salary
   - Experience Level
-  - Sescription (contains Required Skills)
-- i Used `requests` and `Selenium` for dynamic scraping.
+  - Description (contains Required Skills)
+- Uses `requests` and `Selenium` for dynamic scraping.
 
 ### Data Cleaning
-- i Used `pandas` and `re` for processing and cleaning.
+- Uses `pandas` and `re` for processing and cleaning.
 
 ### Data Analysis
-- Most in-demand skills.
+- Identifies most in-demand skills.
 - Salary distribution and ranges.
 - Trends over time.
-- required expercience
+- Required experience analysis.
 
 ### Visualization
 - Graphs and charts using `Matplotlib` and `Seaborn`.
 
+---
 
-## Tech Used :
+## Tech Used
 - Libraries:
   - `requests`, `Selenium` – web scraping
   - `pandas` – data processing
   - `matplotlib`, `seaborn` – data visualization
   - `re` – text cleaning
-
-
