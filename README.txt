@@ -1,3 +1,4 @@
+
 ## Project Overview
 This project scrapes LinkedIn job postings related to **Data Science** and performs data cleaning, analysis, and visualization to extract insights about the job market, salaries, skills, and trends.
 
